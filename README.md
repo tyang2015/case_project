@@ -1,7 +1,7 @@
 **What area of specialization should I decide on in order to be financially successful?  **
 
 **Purpose**:
-The purpose of this project is to analyze job posting's criterion information and assess each of those criterion's relative importance on salary. 
+From the historical data compiled on job-postings by a staffing agency, the purpose of this project is to analyze each job posting's criterion information and assess each of those criterion's relative importance on salary. 
 
 **EDA**:
 I compared salaries for each feature in elaborate visualizations and see their relative correlations. This project is useful for unemployed candidates, particularly those in secondary education to help determine their decisions (eg. which degree or industry should they plan for in the short-term) to maximize their salary potential. It is also useful for those who are currently in the workforce, with many possible applications and has room for expanded leverage. 

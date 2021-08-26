@@ -1,3 +1,5 @@
+**Salary Prediction EDA and ML**
+
 **What area of specialization should I decide on in order to be financially successful?  **
 
 **Purpose**:
